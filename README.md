@@ -39,7 +39,7 @@
 
 ### 📊 GitHub Stats
 
-![Iheb's GitHub stats](https://github-readme-stats.vercel.app/api?username=iheb-rezgui&show_icons=true&theme=radical)
+![Iheb's GitHub stats](https://github-readme-stats.vercel.app/api?username=ihebrezgui&show_icons=true&theme=radical)
 
 ---
 
