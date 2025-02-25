@@ -1,4 +1,4 @@
-## Hi there! 👋 I'm **Iheb REZGUI**
+## Hi there! 👋 I'm ** Iheb REZGUI **
 
 ### 💻 Software Engineering Student at ESPRIT
 
