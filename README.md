@@ -2,8 +2,6 @@
 
 ### 💻 Software Engineering Student at ESPRIT
 
-🚀 Passionate about coding, problem-solving, and creating innovative solutions.
-
 ---
 
 ### 📫 How to Reach Me
