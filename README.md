@@ -90,12 +90,6 @@
 
 </div>
 
-<div align="center">
-  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ihebrezgui&theme=tokyonight)
-
-</div>
-
 ---
 
 ## 🏆 GitHub Trophies
