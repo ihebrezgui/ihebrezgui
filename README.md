@@ -1,7 +1,6 @@
 ## 👋 Hi there! I'm **Iheb REZGUI**  
 
 🎓 **Software Engineering Student** at **ESPRIT**  
-💡 Passionate about building efficient, scalable, and creative software solutions.  
 
 ---
 
