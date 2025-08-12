@@ -7,8 +7,7 @@
 </div>
 
 🎓 **Software Engineering Student** at **ESPRIT** | 🇹🇳 Tunisia  
-💡 Passionate about crafting efficient, scalable, and innovative software solutions  
-🚀 Turning ideas into reality, one line of code at a time
+
 
 ---
 
@@ -64,9 +63,7 @@
 <div align="center">
 
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
 
 </div>
 
