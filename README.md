@@ -6,7 +6,7 @@
 
 </div>
 
-🎓 **Software Engineering Student** at **ESPRIT** | 🇹🇳 Tunisia  
+🎓 **Software Engineering  | 🇹🇳 Tunisia  
 
 
 ---
